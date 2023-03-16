@@ -11,4 +11,8 @@ public class Class1
 		//ne radi nista
 		//ne radi nista
     }
+	//ne radi nista
+	//ne radi nista		
+	//ne radi nista
+	//ne radi nista
 }
